@@ -28,8 +28,8 @@ I am a software developer with experience in building Telegram bots, web applica
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=chernykh-mykhailo&show_icons=true&theme=nord" alt="Mykhailo's GitHub Stats" height="180px"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chernykh-mykhailo&layout=compact&theme=nord" alt="Top Languages" height="180px"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=chernykh-mykhailo&show_icons=true&theme=nord&count_private=true" alt="Mykhailo's GitHub Stats" height="180px"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chernykh-mykhailo&layout=compact&theme=nord&count_private=true" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="left">
