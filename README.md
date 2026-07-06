@@ -19,6 +19,7 @@ I am a software developer with experience in building Telegram bots, web applica
 
 ### 📂 Featured Projects
 
+*   🕵️ **[CodeNames Showcase](https://github.com/chernykh-mykhailo/CodeNames-Showcase)** — Full-featured Telegram bot implementation of the Codenames board game with clans, AI captain, tactical buffs, casino, and multi-language support.
 *   🚀 **[EmojiStickerCopyBot](https://github.com/chernykh-mykhailo/EmojiStickerCopyBot)** — A Python Telegram bot for fast copying and saving premium stickers and emojis.
 *   🤖 **[PrestaShop AI Chatbot](https://github.com/chernykh-mykhailo/prestashop-simplebot-ai)** — Integration of Gemini AI chatbot into PrestaShop for customer support, FAQ parsing, and store assistance.
 *   🎮 **[ClassicPlayBot Showcase](https://github.com/chernykh-mykhailo/ClassicPlayBot-Showcase)** — A modular Telegram gaming platform with a rich virtual economy and complex card game engines (Durak).
