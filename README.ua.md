@@ -22,7 +22,7 @@
 *   🕵️ **[CodeNames Showcase](https://github.com/chernykh-mykhailo/CodeNames-Showcase)** — Повноцінна реалізація настільної гри «Кодові Імена» у Telegram з кланами, AI-капітаном, тактичними бафами, казино та мультимовністю.
 *   🚀 **[EmojiStickerCopyBot](https://github.com/chernykh-mykhailo/EmojiStickerCopyBot)** — Telegram-бот на Python для швидкого копіювання та збереження стікерпаків та емодзі.
 *   🤖 **[PrestaShop AI Chatbot](https://github.com/chernykh-mykhailo/prestashop-simplebot-ai)** — Інтеграція штучного інтелекту Gemini безпосередньо у PrestaShop для підтримки клієнтів, обробки FAQ та допомоги покупцям.
-*   🎮 **[ClassicPlayBot Showcase](https://github.com/chernykh-mykhailo/ClassicPlayBot-Showcase)** — Модульна ігрова платформа для Telegram з віртуальною економікою та складним картковим рушієм (Дурень).
+*   🎮 **[ClassicPlayBot Showcase](https://github.com/chernykh-mykhailo/ClassicPlayBot-Showcase)** — Модульна ігрова платформа для Telegram з віртуальною економікою, складним картковим рушієм (Дурень) та мультимовністю.
 *   🛍️ **[PrestaShop Extensions](https://github.com/chernykh-mykhailo/prestashop-extensions)** — Колекція кастомних рішень та модулів для платформи PrestaShop.
 *   🎮 **[LanPlaySwitch](https://github.com/chernykh-mykhailo/LanPlaySwitch)** — Десктопний інструмент на C# для підключення Nintendo Switch до LAN-мереж.
 *   🖱️ **[AutoClicker](https://github.com/chernykh-mykhailo/AutoClicker)** — Десктопна утиліта автоматизації для імітації кліків мишкою та натискання клавіш.
