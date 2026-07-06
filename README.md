@@ -39,4 +39,4 @@ I am a software developer with experience in building Telegram bots, web applica
 ---
 
 ### 📬 Contact Me
-*   **Telegram:** [@m_chernykh](https://t.me/Div4unka_z_kare)
+*   **Telegram:** [@Div4unka_z_kare](https://t.me/Div4unka_z_kare)
