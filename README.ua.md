@@ -20,8 +20,10 @@
 ### 📂 Обрані проєкти
 
 *   🚀 **[EmojiStickerCopyBot](https://github.com/chernykh-mykhailo/EmojiStickerCopyBot)** — Telegram-бот на Python для швидкого копіювання та збереження стікерпаків та емодзі.
-*   🛍️ **[PrestaShop Extensions](https://github.com/chernykh-mykhailo/prestashop-extensions)** — Колекція кастомних рішень та модулів для платформи PrestaShop (імпортери, кастомні реєстраційні поля, банери).
+*   🤖 **[PrestaShop AI Chatbot](https://github.com/chernykh-mykhailo/prestashop-simplebot-ai)** — Інтеграція штучного інтелекту Gemini безпосередньо у PrestaShop для підтримки клієнтів, обробки FAQ та допомоги покупцям.
+*   🛍️ **[PrestaShop Extensions](https://github.com/chernykh-mykhailo/prestashop-extensions)** — Колекція кастомних рішень та модулів для платформи PrestaShop.
 *   🎮 **[LanPlaySwitch](https://github.com/chernykh-mykhailo/LanPlaySwitch)** — Десктопний інструмент на C# для підключення Nintendo Switch до LAN-мереж.
+*   🖱️ **[AutoClicker](https://github.com/chernykh-mykhailo/AutoClicker)** — Десктопна утиліта автоматизації для імітації кліків мишкою та натискання клавіш.
 
 ---
 

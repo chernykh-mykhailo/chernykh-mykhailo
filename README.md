@@ -20,8 +20,10 @@ I am a software developer with experience in building Telegram bots, web applica
 ### 📂 Featured Projects
 
 *   🚀 **[EmojiStickerCopyBot](https://github.com/chernykh-mykhailo/EmojiStickerCopyBot)** — A Python Telegram bot for fast copying and saving premium stickers and emojis.
-*   🛍️ **[PrestaShop Extensions](https://github.com/chernykh-mykhailo/prestashop-extensions)** — A collection of custom solutions and modules for the PrestaShop platform (importers, custom fields, banners).
+*   🤖 **[PrestaShop AI Chatbot](https://github.com/chernykh-mykhailo/prestashop-simplebot-ai)** — Integration of Gemini AI chatbot into PrestaShop for customer support, FAQ parsing, and store assistance.
+*   🛍️ **[PrestaShop Extensions](https://github.com/chernykh-mykhailo/prestashop-extensions)** — A collection of custom solutions and modules for the PrestaShop platform.
 *   🎮 **[LanPlaySwitch](https://github.com/chernykh-mykhailo/LanPlaySwitch)** — A C#-based desktop tool to connect Nintendo Switch to local area networks (LAN).
+*   🖱️ **[AutoClicker](https://github.com/chernykh-mykhailo/AutoClicker)** — Desktop automation utility for simulating mouse clicks and keystrokes.
 
 ---
 
