@@ -28,7 +28,7 @@
 ### 📊 Моя GitHub Статистика
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=chernykh-mykhailo&show_icons=true&theme=nord&count_private=true" alt="Mykhailo's GitHub Stats" height="180px"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=chernykh-mykhailo&show_icons=true&theme=nord&count_private=true&hide_rank=true" alt="Mykhailo's GitHub Stats" height="180px"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chernykh-mykhailo&layout=compact&theme=nord&count_private=true" alt="Top Languages" height="180px"/>
 </p>
 
