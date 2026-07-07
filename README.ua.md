@@ -22,6 +22,7 @@
 ### 📂 Обрані проєкти
 
 *   🕵️ **[CodeNames Showcase](https://github.com/chernykh-mykhailo/CodeNames-Showcase)** — Повноцінна реалізація настільної гри «Кодові Імена» у Telegram з кланами, AI-капітаном, тактичними бафами, казино та мультимовністю.
+*   🤖 **[Telegram Bots Collection](https://github.com/chernykh-mykhailo/telegram-bots-collection)** — Систематизований каталог розроблених Telegram-ботів для ігор, приватності, утиліт та модерації груп.
 *   🚀 **[EmojiStickerCopyBot](https://github.com/chernykh-mykhailo/EmojiStickerCopyBot)** — Telegram-бот на Python для швидкого копіювання та збереження стікерпаків та емодзі.
 *   🤖 **[PrestaShop AI Chatbot](https://github.com/chernykh-mykhailo/prestashop-simplebot-ai)** — Інтеграція штучного інтелекту Gemini безпосередньо у PrestaShop для підтримки клієнтів, обробки FAQ та допомоги покупцям.
 *   🎮 **[ClassicPlayBot Showcase](https://github.com/chernykh-mykhailo/ClassicPlayBot-Showcase)** — Модульна ігрова платформа для Telegram з віртуальною економікою, різноманітними ігровими модулями (карткові ігри на кшталт Дурак/Блекджек, настільні та рольові механіки) та мультимовністю.
