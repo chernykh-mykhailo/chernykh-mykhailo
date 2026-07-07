@@ -4,7 +4,9 @@
   <b>🇺🇸 English</b> | <a href="./README.ua.md">🇺🇦 Українська</a>
 </p>
 
-I am a software developer with experience in building Telegram bots, web applications, and e-commerce integrations. I enjoy crafting clean, scalable solutions and automating workflows.
+I am a software developer with experience in building Telegram bots, e-commerce integrations, and automation tools. I enjoy crafting clean, scalable solutions and automating workflows.
+
+📄 **[My Interactive Resume Website](https://mykhailo-chernykh.netlify.app/)**
 
 ---
 
